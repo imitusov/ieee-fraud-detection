@@ -1,4 +1,9 @@
-# ieee-fraud-detection
+## Greetings
+I'm new in machine learning but I have a definite desire to improve my skills in the near future.
+Here I'll add things that i would like to try/check/implement and so on.
+If you would like to cooperate and test things together, please feel free to connect
+
+### ieee-fraud-detection
 Google Colab notebook for IEEE fraud challenge on Kaggle
 
 ### Progress
