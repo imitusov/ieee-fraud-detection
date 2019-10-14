@@ -8,6 +8,7 @@ If you would like to cooperate and test things together, please feel free to con
 Google Colab notebook for IEEE fraud challenge on Kaggle
 
 ### Progress
+- [x] EDA
 - [x] CV scheme (NestedTimeSeries)
 - [x] feature extraction (dates, OS versions, emails)
 - [x] feature imputation (for numeric features)
